@@ -8,3 +8,5 @@ print(c)
 # #Heading 1
 
 # This is an example of a **markdown**.
+
+# %%
